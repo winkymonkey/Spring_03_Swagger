@@ -1,4 +1,4 @@
-package com.example.spring;
+package org.example.spring;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

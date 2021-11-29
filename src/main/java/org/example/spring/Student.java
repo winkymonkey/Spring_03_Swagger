@@ -1,4 +1,4 @@
-package com.example.spring;
+package org.example.spring;
 
 public class Student {
 	private String name;
